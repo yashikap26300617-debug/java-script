@@ -26,4 +26,5 @@ for(let i=0;i<que.length;i++){
     }
    
 }
-console.log(isPresent?"yes":"no")
+console.log(isPresent?"yes":"no") //ternary operator
+
